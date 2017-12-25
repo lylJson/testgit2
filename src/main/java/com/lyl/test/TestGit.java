@@ -16,6 +16,10 @@ public class TestGit {
 		System.out.println("添加主线1");
 		System.out.println("添加主线2");
 		System.out.println("添加主线3");
+
+		System.out.println("添加分枝2.1");
+		System.out.println("添加分枝2.2");
+
 	}
 
 }
