@@ -11,5 +11,6 @@ package com.lyl.test;
 public class TestGit {
 	public static void main(String[] args) {
 		System.out.println("添加分子1");
+		System.out.println("添加分子2");
 	}
 }
