@@ -13,5 +13,6 @@ public class TestGit {
 		System.out.println("添加分子1");
 		System.out.println("添加分子2");
 		System.out.println("添加分子3");
+		System.out.println("添加分子4");
 	}
 }
