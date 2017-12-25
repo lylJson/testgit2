@@ -9,4 +9,8 @@ package com.lyl.test;
  * create_time: 12:36 PM
  **/
 public class TestGit {
+
+	public static void main(String[] args) {
+		System.out.println("添加主线更新1");
+	}
 }
